@@ -1,0 +1,2 @@
+include GeoportalTH_Imagery_Download.yml
+include GeoportalTH_Imagery_Download.ipynb
